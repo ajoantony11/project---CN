@@ -1,4 +1,4 @@
-num1 = int(input("Enter the first number: "))
+num1 = int(input("Enter the first numbers: "))
 num2 = int(input("Enter the second number: "))
 
 
